@@ -8,13 +8,13 @@ import coreComponents.ExtentManager;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = "src/main/resources/Features/Selenium.feature",
+        features = "src/main/resources/Features/Login.feature",
         glue = "stepDefinitions",
         plugin = {
                 "pretty",
                 "html:target/cucumber-reports",
         },
-        dryRun = true
+        dryRun = false, tags = "@LoginSuccess"
 )
 public class TestRunner {
 

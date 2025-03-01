@@ -1,5 +1,5 @@
 # Ignore reports directory
-reports/
+Reports/
 
 # Ignore misc.xml file
 misc.xml
@@ -12,3 +12,15 @@ misc.xml
 *.class
 *.xml
 *.lst
+
+# Ignore Cucumber reports directory
+cucumber-reports/
+
+# Ignore compiled TestRunner class file
+TestRunner.class
+
+# Ignore TestRunner.java file
+TestRunner.java
+
+# Ignore temporary Excel files
+~$TestData.xlsx
