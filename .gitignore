@@ -9,3 +9,6 @@ misc.xml
 *.tmp
 *.bak
 *.swp
+*.class
+*.xml
+*.lst
