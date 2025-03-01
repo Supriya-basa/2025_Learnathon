@@ -1,0 +1,5 @@
+coreComponents\GenericClass.class
+stepDefinitions\LoginSteps.class
+pageObjects\LoginPagePO.class
+coreComponents\ExtentManager.class
+runner\TestRunner.class
