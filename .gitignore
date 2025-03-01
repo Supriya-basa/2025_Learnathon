@@ -24,3 +24,6 @@ TestRunner.java
 
 # Ignore temporary Excel files
 ~$TestData.xlsx
+
+# Ignore everything under the target folder
+target/
