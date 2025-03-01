@@ -1,0 +1,11 @@
+# Ignore reports directory
+reports/
+
+# Ignore misc.xml file
+misc.xml
+
+# Ignore other generated files
+*.log
+*.tmp
+*.bak
+*.swp
